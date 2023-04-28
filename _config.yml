@@ -16,7 +16,7 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "en-US"
-title: "cuadr0x's blog"
+title: "cuadr0x"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "cuadr0x"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "cuadr0x"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  bio: "CTF player and cybersecurity enthusiast"
+  location: "Spain"
   email:
   links:
     - label: "Email"
@@ -179,8 +179,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
